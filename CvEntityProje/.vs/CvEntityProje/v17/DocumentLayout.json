@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|c:\\users\\mmust\\onedrive\\masa\u00FCst\u00FC\\mustafa k\u00F6se\\projeler\\web\\cventityproje\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|c:\\users\\mmust\\onedrive\\masa\u00FCst\u00FC\\mustafa k\u00F6se\\projeler\\web\\cventityproje\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|c:\\users\\mmust\\onedrive\\masa\u00FCst\u00FC\\mustafa k\u00F6se\\projeler\\web\\cventityproje\\istatistik.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|solutionrelative:istatistik.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\istatistik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|solutionrelative:istatistik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\iletisim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|solutionrelative:iletisim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\iletisim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|solutionrelative:iletisim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|c:\\users\\mmust\\onedrive\\masa\u00FCst\u00FC\\mustafa k\u00F6se\\projeler\\web\\cventityproje\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|solutionrelative:admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\mesajdetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|solutionrelative:mesajdetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\mesajdetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86780FB-4AF0-4A88-A90E-66C47630C548}|CvEntityProje.csproj|solutionrelative:mesajdetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:24:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T16:10:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Istatistik.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Istatistik.aspx.cs",
+              "RelativeDocumentMoniker": "Istatistik.aspx.cs",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Istatistik.aspx.cs",
+              "RelativeToolTip": "Istatistik.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:52:07.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Istatistik.aspx",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Istatistik.aspx",
+              "RelativeDocumentMoniker": "Istatistik.aspx",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Istatistik.aspx",
+              "RelativeToolTip": "Istatistik.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T13:38:43.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mesajDetay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\mesajDetay.aspx.cs",
+              "RelativeDocumentMoniker": "mesajDetay.aspx.cs",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\mesajDetay.aspx.cs",
+              "RelativeToolTip": "mesajDetay.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:25:34.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mesajDetay.aspx",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\mesajDetay.aspx",
+              "RelativeDocumentMoniker": "mesajDetay.aspx",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\mesajDetay.aspx",
+              "RelativeToolTip": "mesajDetay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T13:25:24.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Iletisim.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Iletisim.aspx.cs",
+              "RelativeDocumentMoniker": "Iletisim.aspx.cs",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Iletisim.aspx.cs",
+              "RelativeToolTip": "Iletisim.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:15:24.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Iletisim.aspx",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Iletisim.aspx",
+              "RelativeDocumentMoniker": "Iletisim.aspx",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Iletisim.aspx",
+              "RelativeToolTip": "Iletisim.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T13:10:02.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Admin.Master",
+              "RelativeDocumentMoniker": "Admin.Master",
+              "ToolTip": "C:\\Users\\mmust\\OneDrive\\Masa\u00FCst\u00FC\\Mustafa K\u00F6se\\Projeler\\Web\\CvEntityProje\\Admin.Master",
+              "RelativeToolTip": "Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T04:29:10.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
